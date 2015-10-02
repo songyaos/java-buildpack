@@ -15,5 +15,5 @@
 
 # Configuration for the Java Main container
 ---
-java_main_class:
+java_main_class: com.example.Main
 arguments:
